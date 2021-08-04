@@ -1,0 +1,25 @@
+.about {
+color: darkblue;
+font-size: large;
+font-style: italic;
+}
+
+.ben {
+  color: rgb(212, 150, 34);
+  font-size: small;
+  font-weight: bold;
+  background-color: maroon;
+}
+
+.art {
+  color: green;
+  background-color: lavenderblush;
+  font-weight: bolder;
+  font-size: medium;
+}
+
+.chynna {
+  color:azure;
+  background-color: darkcyan;
+  border:darkgreen 4px dotted;
+}
