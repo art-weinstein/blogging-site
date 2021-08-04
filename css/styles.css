@@ -9,6 +9,8 @@ font-style: italic;
   font-size: small;
   font-weight: bold;
   background-color: maroon;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .art {
@@ -16,10 +18,14 @@ font-style: italic;
   background-color: lavenderblush;
   font-weight: bolder;
   font-size: medium;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .chynna {
   color:azure;
   background-color: darkcyan;
   border:darkgreen 4px dotted;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
